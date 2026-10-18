@@ -1,4 +1,4 @@
-# MediAssist - Healthcare Document Q&A Assistant
+# MediAssist 
 
 A full-stack Retrieval-Augmented Generation (RAG) app. Ask questions in plain English about
 health-plan documents and get an answer with the exact source passages cited.
